@@ -58,3 +58,4 @@ def read_sensors():
 
 if (__name__ == "__main__"):
     main()
+# There are still a lot to learn.
